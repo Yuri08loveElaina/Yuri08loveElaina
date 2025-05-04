@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuri08loveelaina" alt="yuri08loveelaina" /></a> </p>
 
-<p align="left"> <a href="https://x.com/Yuri08_SG" target="blank"><img src="https://img.shields.io/twitter/follow/yuri08?logo=twitter&style=for-the-badge" alt="yuri08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yuri08_sg" target="blank"><img src="https://img.shields.io/twitter/follow/yuri08_sg?logo=twitter&style=for-the-badge" alt="yuri08_sg" /></a> </p>
 
 - 📫 Cách liên hệ với tôi **nammoleong@gmail.com**
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
-<a href="https://twitter.com/yuri08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuri08" height="30" width="40" /></a>
+<a href="https://twitter.com/yuri08_sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuri08_sg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
